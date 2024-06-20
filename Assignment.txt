@@ -1,0 +1,13 @@
+Activity- 1
+
+Step:1- Create a local repo
+Step:2- Create 3 file in master branch
+Step:3- Create repo in GitHub
+Step:4- Push the changes on Github
+
+Activity- 2
+
+What is the difference ways of GitHub cloning from authentication prospective.
+
+1.https
+2.ssh
