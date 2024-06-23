@@ -1,4 +1,0 @@
-Hands on mergeconflict
-Hello World Pranjan Gupta
-mergeconflicttest
-

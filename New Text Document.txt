@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Smart
-=======
-I'm Pranjan Gupta 28
-Smart
-Handsome
->>>>>>> feature2
