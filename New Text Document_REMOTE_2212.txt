@@ -3,4 +3,3 @@ Pranjan Gupta
 mergeconflict
 Keep moving
 Happened
-Devops tuts
