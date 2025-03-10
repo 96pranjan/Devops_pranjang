@@ -6,9 +6,8 @@ Step:3- Create repo in GitHub
 Step:4- Push the changes on Github
 
 Activity- 2
-
 What is the difference ways of GitHub cloning from authentication prospective.
-
 1.https
 2.ssh
 All activities needs to be completed.
+Recently Updated
